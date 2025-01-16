@@ -1,7 +1,12 @@
 {
   "expo": {
     "name": "LoveMessage",
-    "slug": "LoveMessage",
+    "slug": "lovemessage",
+    "extra": {
+      "eas": {
+        "projectId": "5acdb473-7c73-41a1-8e73-7b6efc36d3f1"
+      }
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -36,6 +41,7 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "owner": "toanpt301"
   }
 }
